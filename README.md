@@ -1,2 +1,17 @@
-# blog-artificial-intelligence-in-healthcare-1755035916
-AI-generated blog post: Artificial Intelligence in Healthcare
+# Artificial Intelligence in Healthcare
+
+This blog post was automatically generated and deployed using AI Blog Generator.
+
+## Content
+- **Title**: Artificial Intelligence in Healthcare
+- **Generated**: August 12, 2025
+- **Deployment**: Vercel via MCP
+
+## Technology Stack
+- Next.js 14
+- Deployed on Vercel
+- Generated with LangGraph AI workflow
+
+---
+
+*This is an auto-generated blog post. The content was created by AI and deployed automatically to the web.*
